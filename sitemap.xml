@@ -13,7 +13,19 @@
     <loc>/index.html</loc>
   </url>
   <url>
+    <loc>/reference/bakers_wide.html</loc>
+  </url>
+  <url>
+    <loc>/reference/beachbugs_long.html</loc>
+  </url>
+  <url>
+    <loc>/reference/beachbugs_wide.html</loc>
+  </url>
+  <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/rain_temp_bugs.html</loc>
   </url>
   <url>
     <loc>/reference/ryouwithme-package.html</loc>
