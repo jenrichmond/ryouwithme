@@ -2,9 +2,9 @@ url: ~
 template:
   bootstrap: 5
   bslib:
-    bg: "#202123"
-    fg: "#88398a"
-    primary: "#a7a9ac"
+    bg: "#88398a"
+    fg: "#a7a9ac"
+    primary: "#88398a"
 navbar:
   structure:
     left:  [intro, reference, articles, tutorials, news]
