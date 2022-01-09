@@ -3,8 +3,8 @@ template:
   bootstrap: 5
   bslib:
     bg: "#202123"
-    fg: "#B8BCC2"
-    primary: "#306cc9"
+    fg: "#88398a"
+    primary: "#a7a9ac"
 navbar:
   structure:
     left:  [intro, reference, articles, tutorials, news]
