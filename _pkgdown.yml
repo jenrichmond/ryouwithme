@@ -1,12 +1,10 @@
 url: ~
 template:
   bootstrap: 5
-  bslib:
-    bg: "#88398a"
-    fg: "#a7a9ac"
-    primary: "#88398a"
+  bootswatch: pulse
 navbar:
   structure:
     left:  [intro, reference, articles, tutorials, news]
     right: [search, github]
+
 
