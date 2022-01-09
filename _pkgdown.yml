@@ -1,7 +1,7 @@
 url: ~
 template:
   bootstrap: 5
-  bootswatch: pulse
+  bootswatch: simplex
 navbar:
   structure:
     left:  [intro, reference, articles, tutorials, news]
