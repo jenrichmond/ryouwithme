@@ -3,7 +3,7 @@
 \docType{data}
 \name{beachbugs_wide}
 \alias{beachbugs_wide}
-\title{Beachbugs wide}
+\title{Wide format mean Enterococci bacteria levels by beach site and year between 2013 and 2018}
 \format{
 A tibble with 6 rows and 12 variables:
 \describe{

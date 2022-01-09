@@ -3,7 +3,7 @@
 \docType{data}
 \name{rain_temp_bugs}
 \alias{rain_temp_bugs}
-\title{Rain temperature and beach bugs data}
+\title{Rainfall, temperature and beach enterococci bacteria levels in Sydney between 2013 and 2018}
 \format{
 A tibble with 3690 rows and 10 variables:
 \describe{

@@ -1,6 +1,4 @@
-#' Bakers wide data
-#'
-#' Great British Bakeoff spice scores
+#' Great British Bakeoff spice scores in wide format
 #'
 #'
 #' @format A tibble with 3690 rows and 8 variables:

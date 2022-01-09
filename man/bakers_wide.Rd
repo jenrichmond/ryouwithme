@@ -3,7 +3,7 @@
 \docType{data}
 \name{bakers_wide}
 \alias{bakers_wide}
-\title{Bakers wide data}
+\title{Great British Bakeoff spice scores in wide format}
 \format{
 A tibble with 3690 rows and 8 variables:
 \describe{
@@ -21,6 +21,6 @@ A tibble with 3690 rows and 8 variables:
 bakers_wide
 }
 \description{
-Great British Bakeoff spice scores
+Great British Bakeoff spice scores in wide format
 }
 \keyword{datasets}

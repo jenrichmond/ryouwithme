@@ -3,7 +3,7 @@
 \docType{data}
 \name{sydneybeaches}
 \alias{sydneybeaches}
-\title{Sydney Beaches data}
+\title{Enterococci bacteria levels at Sydney beaches between 2013 and 2018}
 \format{
 A tibble with 3690 rows and 8 variables:
 \describe{

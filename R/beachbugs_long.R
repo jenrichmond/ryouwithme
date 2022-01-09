@@ -1,5 +1,3 @@
-#' Beachbugs long
-#'
 #' Long format mean Enterococci bacteria levels by beach site and year between 2013 and 2018
 #'
 #'

@@ -1,5 +1,3 @@
-#' Rain temperature and beach bugs data
-#'
 #' Rainfall, temperature and beach enterococci bacteria levels in Sydney between 2013 and 2018
 #'
 #'

@@ -3,7 +3,7 @@
 \docType{data}
 \name{beachbugs_long}
 \alias{beachbugs_long}
-\title{Beachbugs long}
+\title{Long format mean Enterococci bacteria levels by beach site and year between 2013 and 2018}
 \format{
 A tibble with 66 rows and 3 variables:
 \describe{

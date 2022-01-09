@@ -1,5 +1,3 @@
-#' Sydney Beaches data
-#'
 #' Enterococci bacteria levels at Sydney beaches between 2013 and 2018
 #'
 #'
