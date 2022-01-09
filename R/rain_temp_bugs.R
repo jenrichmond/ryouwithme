@@ -1,6 +1,6 @@
 #' Rain temperature and beach bugs data
 #'
-#' Beach enterococci bacteria levels, rainfall, and temperature readings in Sydney between 2013 and 2018
+#' Rainfall, temperature and beach enterococci bacteria levels in Sydney between 2013 and 2018
 #'
 #'
 #' @format A tibble with 3690 rows and 10 variables:

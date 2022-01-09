@@ -26,6 +26,6 @@ A tibble with 3690 rows and 10 variables:
 rain_temp_bugs
 }
 \description{
-Beach enterococci bacteria levels, rainfall, and temperature readings in Sydney between 2013 and 2018
+Rainfall, temperature and beach enterococci bacteria levels in Sydney between 2013 and 2018
 }
 \keyword{datasets}
