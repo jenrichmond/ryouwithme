@@ -21,13 +21,15 @@ sydneybeaches <- sydneybeaches
 
 ```
 
-The package also includes these datasets that used to demonstrate pivoting in CleanItUp 4 and 5. 
+The package also includes these datasets that are used to demonstrate pivoting in CleanItUp 4 and 5. 
 
 - bakers_wide
 - beachbugs_wide
 - beachbugs_long 
+- frames_wide
+- frames_long
 
-And this dataset that  is used in VizWhiz 3 to demostrate geom_point plots
+And this dataset that is used in VizWhiz 3 to demonstrate geom_point plots.
 
 - rain_temp_bugs
 
